@@ -6,7 +6,7 @@ import { Input } from './ui/input'
 import { Label } from './ui/label'
 import { Textarea } from './ui/textarea'
 import { Dialog, DialogContent, DialogHeader, DialogTitle } from './ui/dialog'
-import { useToast } from './hooks/use-toast'
+import { useToast } from '../hooks/use-toast'
 import { blink } from '../blink/client'
 import { 
   Calendar, 

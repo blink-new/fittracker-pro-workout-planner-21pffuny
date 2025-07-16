@@ -6,7 +6,7 @@ import { Label } from './ui/label'
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from './ui/select'
 import { RadioGroup, RadioGroupItem } from './ui/radio-group'
 import { Textarea } from './ui/textarea'
-import { useToast } from './hooks/use-toast'
+import { useToast } from '../hooks/use-toast'
 import { User, Heart, Target, Activity } from 'lucide-react'
 
 interface User {
